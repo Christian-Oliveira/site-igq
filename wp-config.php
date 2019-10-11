@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'igq' );
 
 /** Usuário do banco de dados MySQL */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'igqadmin' );
 
 /** Senha do banco de dados MySQL */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'adminigq' );
 
 /** Nome do host do MySQL */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'mysql380.umbler.com' );
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define( 'DB_CHARSET', 'utf8mb4' );
